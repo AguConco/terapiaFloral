@@ -4,6 +4,7 @@ using System.Data.SQLite;
 using System.Drawing;
 using System.Windows.Forms;
 using Guna.UI2.WinForms;
+using terapia_floral.Formularios;
 
 namespace terapia_floral.UsuarioControl
 {
@@ -174,7 +175,9 @@ namespace terapia_floral.UsuarioControl
 
         private void btn_nueva_flor_Click(object sender, EventArgs e)
         {
-
+            nueva_flor NuevaFlor = new nueva_flor();
+            NuevaFlor.TopMost = true;
+            NuevaFlor.ShowDialog();
         }
 
         private void buscadorFlor_TextChanged(object sender, EventArgs e)

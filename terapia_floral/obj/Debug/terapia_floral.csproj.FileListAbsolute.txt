@@ -59,3 +59,4 @@ C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\
 C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\bin\Debug\System.Data.SQLite.xml
 C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\obj\Debug\terapia_floral.csproj.CopyComplete
 C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\obj\Debug\terapia_floral.UsuarioControl.UC_flor_seleccionada.resources
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\obj\Debug\terapia_floral.Formularios.nueva_flor.resources
