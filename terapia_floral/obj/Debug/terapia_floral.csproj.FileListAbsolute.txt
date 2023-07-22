@@ -1,0 +1,61 @@
+C:\Users\Guido\Documents\Software Terapista Floral\TERAPIA FLORAL\terapia_floral\terapia_floral\bin\Debug\terapia_floral.exe.config
+C:\Users\Guido\Documents\Software Terapista Floral\TERAPIA FLORAL\terapia_floral\terapia_floral\bin\Debug\terapia_floral.exe
+C:\Users\Guido\Documents\Software Terapista Floral\TERAPIA FLORAL\terapia_floral\terapia_floral\bin\Debug\terapia_floral.pdb
+C:\Users\Guido\Documents\Software Terapista Floral\TERAPIA FLORAL\terapia_floral\terapia_floral\bin\Debug\Guna.UI2.dll
+C:\Users\Guido\Documents\Software Terapista Floral\TERAPIA FLORAL\terapia_floral\terapia_floral\obj\Debug\terapia_floral.csproj.AssemblyReference.cache
+C:\Users\Guido\Documents\Software Terapista Floral\TERAPIA FLORAL\terapia_floral\terapia_floral\obj\Debug\terapia_floral.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guido\Documents\Software Terapista Floral\TERAPIA FLORAL\terapia_floral\terapia_floral\obj\Debug\terapia_floral.menu_inicio.resources
+C:\Users\Guido\Documents\Software Terapista Floral\TERAPIA FLORAL\terapia_floral\terapia_floral\obj\Debug\terapia_floral.Properties.Resources.resources
+C:\Users\Guido\Documents\Software Terapista Floral\TERAPIA FLORAL\terapia_floral\terapia_floral\obj\Debug\terapia_floral.csproj.GenerateResource.cache
+C:\Users\Guido\Documents\Software Terapista Floral\TERAPIA FLORAL\terapia_floral\terapia_floral\obj\Debug\terapia_floral.csproj.CoreCompileInputs.cache
+C:\Users\Guido\Documents\Software Terapista Floral\TERAPIA FLORAL\terapia_floral\terapia_floral\obj\Debug\terapia_floral.csproj.CopyComplete
+C:\Users\Guido\Documents\Software Terapista Floral\TERAPIA FLORAL\terapia_floral\terapia_floral\obj\Debug\terapia_floral.exe
+C:\Users\Guido\Documents\Software Terapista Floral\TERAPIA FLORAL\terapia_floral\terapia_floral\obj\Debug\terapia_floral.pdb
+C:\Users\Guido\Documents\Software Terapista Floral\TERAPIA FLORAL\terapia_floral\terapia_floral\obj\Debug\terapia_floral.UsuarioControl.UC_flores.resources
+C:\Users\Guido\Documents\Software Terapista Floral\TERAPIA FLORAL\terapia_floral\terapia_floral\obj\Debug\terapia_floral.UsuarioControl.UC_pacientes.resources
+D:\proyectos visual studio c#\TERAPIA FLORAL\terapia_floral\terapia_floral\bin\Debug\terapia_floral.exe.config
+D:\proyectos visual studio c#\TERAPIA FLORAL\terapia_floral\terapia_floral\bin\Debug\terapia_floral.exe
+D:\proyectos visual studio c#\TERAPIA FLORAL\terapia_floral\terapia_floral\bin\Debug\terapia_floral.pdb
+D:\proyectos visual studio c#\TERAPIA FLORAL\terapia_floral\terapia_floral\bin\Debug\Guna.UI2.dll
+D:\proyectos visual studio c#\TERAPIA FLORAL\terapia_floral\terapia_floral\obj\Debug\terapia_floral.csproj.AssemblyReference.cache
+D:\proyectos visual studio c#\TERAPIA FLORAL\terapia_floral\terapia_floral\obj\Debug\terapia_floral.csproj.SuggestedBindingRedirects.cache
+D:\proyectos visual studio c#\TERAPIA FLORAL\terapia_floral\terapia_floral\obj\Debug\terapia_floral.menu_inicio.resources
+D:\proyectos visual studio c#\TERAPIA FLORAL\terapia_floral\terapia_floral\obj\Debug\terapia_floral.Properties.Resources.resources
+D:\proyectos visual studio c#\TERAPIA FLORAL\terapia_floral\terapia_floral\obj\Debug\terapia_floral.UsuarioControl.UC_flores.resources
+D:\proyectos visual studio c#\TERAPIA FLORAL\terapia_floral\terapia_floral\obj\Debug\terapia_floral.UsuarioControl.UC_pacientes.resources
+D:\proyectos visual studio c#\TERAPIA FLORAL\terapia_floral\terapia_floral\obj\Debug\terapia_floral.csproj.GenerateResource.cache
+D:\proyectos visual studio c#\TERAPIA FLORAL\terapia_floral\terapia_floral\obj\Debug\terapia_floral.csproj.CoreCompileInputs.cache
+D:\proyectos visual studio c#\TERAPIA FLORAL\terapia_floral\terapia_floral\obj\Debug\terapia_floral.csproj.CopyComplete
+D:\proyectos visual studio c#\TERAPIA FLORAL\terapia_floral\terapia_floral\obj\Debug\terapia_floral.exe
+D:\proyectos visual studio c#\TERAPIA FLORAL\terapia_floral\terapia_floral\obj\Debug\terapia_floral.pdb
+D:\proyectos visual studio c#\TERAPIA FLORAL\terapia_floral\terapia_floral\bin\Debug\System.Data.SQLite.dll
+D:\proyectos visual studio c#\TERAPIA FLORAL\terapia_floral\terapia_floral\bin\Debug\System.Data.SQLite.xml
+D:\proyectos visual studio c#\TERAPIA FLORAL\terapia_floral\terapia_floral\bin\Debug\System.Data.SqlClient.dll
+D:\proyectos visual studio c#\TERAPIA FLORAL\terapia_floral\terapia_floral\bin\Debug\System.Data.SqlClient.xml
+D:\proyectos visual studio c#\TERAPIA FLORAL\terapia_floral\terapia_floral\obj\Debug\terapia_floral.UsuarioControl.UC_flor_seleccionada.resources
+D:\proyectos visual studio c#\TERAPIA FLORAL\terapia_floral\terapia_floral\bin\Debug\database.db
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\obj\Debug\terapia_floral.exe
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\obj\Debug\terapia_floral.pdb
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\obj\Debug\terapia_floral.csproj.AssemblyReference.cache
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\obj\Debug\terapia_floral.csproj.SuggestedBindingRedirects.cache
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\obj\Debug\terapia_floral.menu_inicio.resources
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\obj\Debug\terapia_floral.Properties.Resources.resources
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\obj\Debug\terapia_floral.UsuarioControl.UC_flores.resources
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\obj\Debug\terapia_floral.UsuarioControl.UC_pacientes.resources
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\obj\Debug\terapia_floral.csproj.GenerateResource.cache
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\obj\Debug\terapia_floral.csproj.CoreCompileInputs.cache
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\bin\Debug\database.db
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\bin\Debug\terapia_floral.exe.config
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\bin\Debug\terapia_floral.exe
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\bin\Debug\terapia_floral.pdb
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\bin\Debug\EntityFramework.dll
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\bin\Debug\Guna.UI2.dll
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\bin\Debug\System.Data.SQLite.dll
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\bin\Debug\EntityFramework.xml
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\bin\Debug\System.Data.SQLite.xml
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\obj\Debug\terapia_floral.csproj.CopyComplete
+C:\Users\aguco\OneDrive\Documentos\terapia_floral\terapia_floral\terapia_floral\obj\Debug\terapia_floral.UsuarioControl.UC_flor_seleccionada.resources
